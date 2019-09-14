@@ -77,16 +77,18 @@
                         <li><a href="index.php" class="current">Home</a></li> 
                         <li><a href="about-us.php" class="">About Us</a></li> 
 						 <li><a href="journals.php">Journals</a></li>
-                        <li><a href="open-access.php" class="">Open Access</a></li> 
-                        <li><a href="peer-review-process.php" >Peer Review Process </a></li> 
+                       
+                       
                          
 						<li class="dropdown">
 						  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Publishing resources <b class="caret"></b></a>
 						  <ul class="dropdown-menu">
-							<li><a href="editors.php">Editors</a></li>
-							<li><a href="author-guidelines.php">Authors</a></li>
-							<li><a href="manuscript-guidelines.php">Manuscript Guidelines</a></li>
-							<li><a href="membership.php">Member ship</a></li>
+							 <li><a href="open-access.php" class="">Open Access</a></li> 
+						 <li><a href="peer-review.php" >Peer Review  </a></li> 
+							<li><a href="editorial-Publishing-policies.php">Editorial and Publishing Policies</a></li>
+							<li><a href="ethics.php">Publication Ethics</a></li>
+							<li><a href="plagiarism.php">Plagiarism </a></li>
+							<li><a href="copyrights.php">Copyrights and Licensing</a></li>
 							
 						  </ul>
 						</li>	
@@ -95,8 +97,7 @@
 						  <ul class="dropdown-menu">
 							<li><a href="editors.php">Editors</a></li>
 							<li><a href="author-guidelines.php">Authors</a></li>
-							<li><a href="manuscript-guidelines.php">Manuscript Guidelines</a></li>
-							<li><a href="membership.php">Member ship</a></li>
+							
 							
 						  </ul>
 						</li>
