@@ -14,31 +14,22 @@
 			<div class=" row mt-4">
 			
 			<div class=" col-md-9 Welcome_txt fadeInLeft wow animated  " data-wow-duration="1000ms" data-wow-delay="1000ms">
-					<p ><span class="site-color">Peer reviewers </span> role is one of the significant roles in the journal operations. With increasing research, the article publishing is growing with each year and helps in the advancement of scientific research. The journal quality, standards, and lastingness are managed by the quality of article processing. The peer-review process is one principal mechanism that determines the article and journal quality. They invest their time and expertise in reviewing an article, which helps the editors to make an accurate decision on article publishing.
+					<p > Quality article publishing will increase journal quality. The article quality will be assessed by the editors of the Journal and also by the external peer reviewers through the peer-review process. Evaluating the originality, validity, and quality of the article is the best asset of the peer review system. This makes the article to improve quality and upholds a standard before publishing. Arven Periodicals assess by single-blind, double-blind and open peer review system to assess the articles.
 					</p>
 			</div>
 			<div class=" col-md-3 Welcome_txt fadeInRight wow animated  " data-wow-duration="1000ms" data-wow-delay="1000ms">
 			<img src="img/peer-review.png" class="img-responsive">
 			</div>
-			<div class="col-md-12">
-			<h3>Roles and Responsibilities:</h3>
-				<ul class="customise-ul">
-					<li>The reviewers are requested to provide unbiased suggestions and decisions on the manuscript</li>
-					<li>Reviewers have to check the manuscript for its detailed description and understandability of the readers </li>
-					<li>Reviewers have to check the manuscript for its detailed description and understandability of the readers </li>
-					<li>They have to respond on a timely basis to avoid delay in article publishing. In case of delay, they are asked to inform prior to the editorial office or to the editor </li>
-					<li>The comments are given on the manuscript should help to improve the standards</li>
-					<li>In the case of plagiarized or duplicate submission, the reviewers have to notify the editor or editorial office</li>
-					<li>Reviewer has to ensure that the article has abode the editorial and publishing policies of Arven Periodicals</li>
-					<li>Reviewers are requested to ensure confidentiality of the article</li>
-					<li>Reviewers need to provide the reason for the selection of his/her decision on the manuscript</li>
-					<li>If the reviewer feels unqualified or inexperienced of the assigned subject, then he/she need to inform the editorial office immediately</li>
-					<li>Reviewers have to comply with the Journal guidelines and has to review the article accordingly</li>
-					<li>Reviewer has to avoid personal comments or criticisms</li>
-					<li>Reviewer is not allowed direct contact with the author</li>
-					<li>Information or ideas obtained through the peer review process must be kept confidential and must not be used for personal gain    </li>
-				</ul>
+			
 			</div>
+			<div class=" row ">
+			
+			<div class=" col-md-12 Welcome_txt fadeInLeft wow animated  " data-wow-duration="1000ms" data-wow-delay="1000ms">
+				<p>In single-blind peer review process the reviewer details are blinded to the authors and in the double-blind peer-review process both the author and reviewer details are blinded to one another for impartial and fair suggestions. In open peer review the system, the author and reviewer details are not blinded instead open to each other. </p>
+				<p>Scrutinizing the submitted work by the people, who are experts in the fields will help the authors to meet the standards of the quality publishing and worth of gaining more citations which increase the impact of article publishing. Peer review literature will give credence to the quality publishing and this is also an integral part of the publication process to improve the manuscript standards. </p>
+			</div>
+			
+			
 			</div>
 			
 			

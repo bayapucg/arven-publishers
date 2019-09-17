@@ -16,6 +16,7 @@
         <link href="css/custom.css" rel="stylesheet" type="text/css" media="screen">
         <!-- font awesome for icons -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Volkhov&display=swap" rel="stylesheet">
         <link href="css/atoz.css" rel="stylesheet" type="text/css">
        <link href='https://fonts.googleapis.com/css?family=Roboto:400,900,700,500,400italic,300italic,300,100italic,100' rel='stylesheet' type='text/css'>
         <!--owl carousel css-->
@@ -42,7 +43,7 @@
         <div class="top-bar  bg-dark">
 		
             <div class="container ">
-                <div class=" row border_bootom">
+                <div class=" row ">
                     <div class="col-sm-6 hidden-xs">
                         <span class="top-welcome">Welcome to arven Publishers</span>
                     </div>
@@ -62,7 +63,7 @@
         <div class="header-logo-bar">
 		  <nav class="navbar navbar-inverse navbar-static-top sticky yamm">
             <div class="bg_color">
-			  <a class="navbar-brand" href="#"><img  class="img-responsive" src="img/logo.png" alt="LOGO"></a>
+			  <a class="navbar-brand" href="#"><img  class="img-responsive" src="img/logo-main.png" alt="LOGO"></a>
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-controls="navbar">
                         <span class="sr-only">Toggle navigation</span>
@@ -97,6 +98,7 @@
 						  <ul class="dropdown-menu">
 							<li><a href="editors.php">Editors</a></li>
 							<li><a href="author-guidelines.php">Authors</a></li>
+							<li><a href="reviewers.php">Reviewers</a></li>
 							
 							
 						  </ul>

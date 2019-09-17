@@ -452,9 +452,9 @@ section .section-title {
 
 
 .navbar-brand img{
-	width:100px;
-	 padding: 0px 15px;
-	     margin-top: -13px;
+	width:200px;
+	 padding: 0px 10px;
+	     margin-top: -20px;
 		 
 
 }
@@ -497,7 +497,7 @@ section .section-title {
         display: none;
     }
 .navbar-brand img{
-	width:80px;
+	width:170px;
 }
 .bg_color{
  background-color: #f9f9f9;
@@ -1174,7 +1174,7 @@ box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.39);
   padding: 10px;
 }
 .top-bar {
-  background-color: #45a37f;
+  background-color: #1b74db;
 }
 .top-bar .top-welcome {
   color: #fff;
@@ -3519,6 +3519,7 @@ background-size: cover;
   text-transform: uppercase;
   color: #383634;
   font-weight: 700;
+  font-family: 'Volkhov', serif;
 }
 .section-heading h2 span {
   color: #1b74db;
