@@ -9,7 +9,7 @@
 /* * {  -webkit-transition:none;
   } */
 body {
-	/* font-family: "Times New Roman", Times, serif; */
+	/* font-family: Agency FB;; */
 	color: #444444;
 	font-size: 14px;
 	font-weight: normal;
@@ -199,7 +199,7 @@ color:#FFF;
 
 .cp-featured-news-slider .cp-post-content h1 {
 	font-size: 30px;
-	font-family: "Times New Roman", Times, serif;
+	font-family: Agency FB;;
 	font-weight: 700;
 	color: #fff;
 	margin: 0px;
@@ -225,7 +225,7 @@ color:#FFF;
 }
 .cp-featured-news-slider .btn {
 	padding: 5px 14px;
-	font-family: "Times New Roman", Times, serif;
+	font-family: Agency FB;;
 	font-weight: 900;
 	font-size: 14px;
 	border-radius: 2px;
@@ -235,7 +235,7 @@ color:#FFF;
 }
 .article-slider .btn {
 	padding: 5px 14px;
-	font-family: "Times New Roman", Times, serif;
+	font-family: Agency FB;;
 	font-weight: 900;
 	font-size: 14px;
 	border-radius: 2px;
@@ -269,7 +269,7 @@ color:#FFF;
 	margin-bottom: 20px
 }
 .section-title h2,.section-title h1 {
-	font: 700 18px/40px "Times New Roman", Times, serif;
+	font: 700 18px/40px Agency FB;;
 	margin: 0 10px 0 0px;
 	float: left;
 	border-left: 5px solid #1b74db;
@@ -279,7 +279,7 @@ color:#FFF;
 	
 }
 .section-title small {
-	font: 400 14px/40px "Times New Roman", Times, serif;
+	font: 400 14px/40px Agency FB;;
 	color: #888888;
 }
 /**************** Typo Graphy End *******************/
@@ -358,7 +358,7 @@ color:#FFF;
 .cp-news-grid-style-1 .cp-news-post-excerpt h3 {
 	margin: -6px 0 0 0;
 	color: #222222;
-	font: 500 20px/26px "Times New Roman", Times, serif;
+	font: 500 20px/26px Agency FB;;
 	
 }
 .cp-news-grid-style-1 .cp-news-post-excerpt h3 a {
@@ -473,7 +473,7 @@ color:#FFF;
 	padding-bottom: 20px;
 }
 .cp-news-grid-style-2 .cp-fullwidth-news-post-excerpt h3 {
-	font: 500 20px/20px "Times New Roman", Times, serif;
+	font: 500 20px/20px Agency FB;;
 	
 	margin: 16px 0 9px 0;
 }
@@ -515,7 +515,7 @@ color:#FFF;
 	margin-bottom: 11px;
 }
 .cp-news-grid-style-3 h3 {
-	font: 500 16px/22px "Times New Roman", Times, serif;
+	font: 500 16px/22px Agency FB;;
 	margin: 10px auto;
 	text-align:center;
 }
@@ -540,7 +540,7 @@ color:#FFF;
 	text-align: center;
 	border-radius: 2px;
 	color: #fff;
-	font: 400 15px/40px "Times New Roman", Times, serif;
+	font: 400 15px/40px Agency FB;;
 	
 	text-decoration: none;
 	box-shadow: 0px 0px 3px rgba(2, 2, 0, 0.50);
@@ -579,7 +579,7 @@ color:#FFF;
 }
 .cp-news-grid-style-4 .cp-fullwidth-news-post-excerpt .cp-post-content h3 {
 	margin: 0px;
-	font: 500 20px/21px "Times New Roman", Times, serif;
+	font: 500 20px/21px Agency FB;;
 }
 .cp-news-grid-style-4 .cp-fullwidth-news-post-excerpt .cp-post-content h3 a, .cp-news-grid-style-4 .cp-post .cp-post-content h3 a {
 	color: #fff;
@@ -621,7 +621,7 @@ color:#FFF;
 }
 .cp-news-grid-style-4 .cp-post .cp-post-content h3 {
 	margin: 0px;
-	font: 500 16px/21px "Times New Roman", Times, serif;
+	font: 500 16px/21px Agency FB;;
 }
 /**************** News Simple Grid 4 End *******************/
 
@@ -655,7 +655,7 @@ color:#FFF;
 .cp-news-grid-style-5 .cp-news-list h3 {
 	margin: 0px;
 	padding: 0px;
-	font: 500 16px/22px "Times New Roman", Times, serif;
+	font: 500 16px/22px Agency FB;;
 	
 }
 .cp-news-grid-style-5 .cp-news-list h3 a {
@@ -670,7 +670,7 @@ color:#FFF;
 .cp-news-grid-style-5 .cp-news-list p {
 	margin: 0px;
 	padding: 0px;
-	font: 400 14px/24px "Times New Roman", Times, serif;
+	font: 400 14px/24px Agency FB;;
 	color: #444444;
 }
 .cp-news-grid-style-5 .cp-news-list .cp-post-tools {
@@ -717,7 +717,7 @@ color:#FFF;
 	position: relative;
 	text-decoration: none;
 	box-shadow: 0px 0px 3px rgba(2, 2, 0, 0.50);
-	font: 400 15px/40px "Times New Roman", Times, serif;
+	font: 400 15px/40px Agency FB;;
 }
 .paginate-holder .paginate > .active > a, .paginate-holder .paginate > .active > span, .paginate-holder .paginate > .active > a:hover, .paginate-holder .paginate > .active > span:hover, .paginate-holder .paginate > .active > a:focus, .paginate-holder .paginate > .active > span:focus {
 	color: #fff;
@@ -740,7 +740,7 @@ color:#FFF;
 	margin: 0px;
 }
 .sidebar .widget h3.side-title {
-	font: 700 18px/23px "Times New Roman", Times, serif;
+	font: 700 18px/23px Agency FB;;
 	
 	margin: 0 0 20px;
 	padding-left: 10px;
@@ -790,7 +790,7 @@ color:#FFF;
 
 /*** sidebar-textwidget ***/
 .sidebar-textwidget p {
-	font: 400 14px/24px "Times New Roman", Times, serif;
+	font: 400 14px/24px Agency FB;;
 	color: #444444;
 	margin: 0px;
 }
@@ -822,7 +822,7 @@ color:#FFF;
 	width: 100%;
 }
 .sidebar-featured-post .item .cp-post-content h3 {
-	font: 500 16px/16px "Times New Roman", Times, serif;
+	font: 500 16px/16px Agency FB;;
 }
 .sidebar-featured-post .item .cp-post-content h3 a {
 	color: #fff;
@@ -898,14 +898,14 @@ color:#FFF;
 	position:relative;
 }
 .sidebar .most-commented ul li a {
-	font: normal 500 16px/30px "Times New Roman", Times, serif;
+	font: normal 500 16px/30px Agency FB;;
 	color: #222;
 }
 .sidebar .most-commented ul li i {
 	float: right;
 	width: 40px;
 	height: 30px;
-	font: normal 500 16px/30px "Times New Roman", Times, serif;
+	font: normal 500 16px/30px Agency FB;;
 	text-align: center;
 	color: #fff;
 	margin-top: 10px;
@@ -945,7 +945,7 @@ color:#FFF;
 }
 .sidebar .reviews li h4 {
 	clear: both;
-	font: 500 16px/26px "Times New Roman", Times, serif;
+	font: 500 16px/26px Agency FB;;
 	margin: 0px;
 }
 .sidebar .reviews li h4 a {
@@ -1009,7 +1009,7 @@ color:#FFF;
 	float: left;
 }
 .sidebar .cat-holder a {
-	font: 500 16px/32px "Times New Roman", Times, serif;
+	font: 500 16px/32px Agency FB;;
 	color: #222;
 }
 .sidebar .cat-holder .count {
@@ -1024,7 +1024,7 @@ color:#FFF;
 .tags-widget a {
 	display: inline-block;
 	border: 1px solid #cccccc;
-	font: 500 12px/16px "Times New Roman", Times, serif;
+	font: 500 12px/16px Agency FB;;
 	border-radius: 2px;
 	padding: 5px;
 	margin: 0 1px 5px 0;
@@ -1123,13 +1123,13 @@ color:#FFF;
 .footer-widgets h3 {
 	margin: 0px 0 17px;
 	padding: 0px;
-	font: 700 18px/18px "Times New Roman", Times, serif;
+	font: 700 18px/18px Agency FB;;
 	color: #fff;
 	
 }
 .footer .textwidget p {
 	color: #888888;
-	font: 400 14px/24px "Times New Roman", Times, serif;
+	font: 400 14px/24px Agency FB;;
 }
 .footer .cp-widget-content address {
 	margin: 0px;
@@ -1148,7 +1148,7 @@ color:#FFF;
 }
 .footer .cp-widget-content .featured-posts h4, .footer .popular-posts h4, .footer .cp-widget-content .reviews h4 {
 	margin: 0 0 12px;
-	font: 500 16px/16px "Times New Roman", Times, serif;
+	font: 500 16px/16px Agency FB;;
 }
 .footer .cp-widget-content .featured-posts h4 a, .footer .cp-widget-content .reviews h4 a, .footer .popular-posts h4 a {
 	color: #cccccc;
@@ -1171,7 +1171,7 @@ color:#FFF;
 	background: #444444;
 	width: 32px;
 	height: 22px;
-	font: normal 400 14px/22px "Times New Roman", Times, serif;
+	font: normal 400 14px/22px Agency FB;;
 	float: right;
 	text-align: center;
 	color: #cccccc;
@@ -1193,7 +1193,7 @@ color:#FFF;
 }
 .footer .form-widget .material .material-input input {
 	border-bottom: 1px solid #444444;
-	font: 400 14px/40px "Times New Roman", Times, serif;
+	font: 400 14px/40px Agency FB;;
 	height: 30px;
 	color: #888888;
 	padding: 0 0 0 10px
@@ -1201,7 +1201,7 @@ color:#FFF;
 .footer .material .material-input textarea {
 	border-bottom: 0px solid #444444;
 	resize: none;
-	font: 400 14px/18px "Times New Roman", Times, serif;
+	font: 400 14px/18px Agency FB;;
 	color: #888;
 	padding-left: 10px;
 	height: 50px;
@@ -1213,7 +1213,7 @@ color:#FFF;
 }
 .footer .form-widget .btn-submit {
 	float: right;
-	font: 400 15px/40px "Times New Roman", Times, serif;
+	font: 400 15px/40px Agency FB;;
 	color: #fff;
 	
 	padding: 0px 25px;
@@ -1428,13 +1428,13 @@ padding-left: 0;
 .clients-widgets h3 {
 	margin: 0px 0 17px;
 	padding: 0px;
-	font: 700 18px/18px "Times New Roman", Times, serif;
+	font: 700 18px/18px Agency FB;;
 	color: #fff;
 	
 }
 .clients .textwidget p {
 	color: #888888;
-	font: 400 14px/24px "Times New Roman", Times, serif;
+	font: 400 14px/24px Agency FB;;
 }
 .clients .cp-widget-content address {
 	margin: 0px;
@@ -1453,7 +1453,7 @@ padding-left: 0;
 }
 .clients .cp-widget-content .featured-posts h4, .clients .popular-posts h4, .clients .cp-widget-content .reviews h4 {
 	margin: 0 0 12px;
-	font: 500 16px/16px "Times New Roman", Times, serif;
+	font: 500 16px/16px Agency FB;;
 }
 .clients .cp-widget-content .featured-posts h4 a, .clients .cp-widget-content .reviews h4 a, .clients .popular-posts h4 a {
 	color: #cccccc;
@@ -1476,7 +1476,7 @@ padding-left: 0;
 	background: #444444;
 	width: 32px;
 	height: 22px;
-	font: normal 400 14px/22px "Times New Roman", Times, serif;
+	font: normal 400 14px/22px Agency FB;;
 	float: right;
 	text-align: center;
 	color: #cccccc;
@@ -1498,7 +1498,7 @@ padding-left: 0;
 }
 .clients .form-widget .material .material-input input {
 	border-bottom: 1px solid #444444;
-	font: 400 14px/40px "Times New Roman", Times, serif;
+	font: 400 14px/40px Agency FB;;
 	height: 41px;
 	color: #888888;
 	padding: 0 0 0 10px
@@ -1506,13 +1506,13 @@ padding-left: 0;
 .clients .material .material-input textarea {
 	border-bottom: 0px solid #444444;
 	resize: none;
-	font: 400 14px/40px "Times New Roman", Times, serif;
+	font: 400 14px/40px Agency FB;;
 	color: #888;
 	padding-left: 10px;
 }
 .clients .form-widget .btn-submit {
 	float: right;
-	font: 400 15px/40px "Times New Roman", Times, serif;
+	font: 400 15px/40px Agency FB;;
 	color: #fff;
 	
 	padding: 0px 25px;
@@ -1673,7 +1673,7 @@ height: 50px;
 	padding: 0px 20px 15px;
 }
 .home-layout2-featured-news .cp-fullwidth-news-post-excerpt .cp-post-content h3 {
-	font: 500 20px/21px "Times New Roman", Times, serif;
+	font: 500 20px/21px Agency FB;;
 	
 }
 .home-layout2-featured-news .cp-fullwidth-news-post-excerpt .cp-post-content h3 a, .home-layout2-featured-news .cp-post .cp-post-content h3 a, .home-layout2-featured-news .cp-fullwidth-news-post-excerpt .cp-post-tools li, .home-layout2-featured-news .cp-post .cp-post-content .cp-post-tools li {
@@ -1712,7 +1712,7 @@ height: 50px;
 	padding: 0 20px 15px;
 }
 .home-layout2-featured-news .cp-post .cp-post-content h3 {
-	font: 500 16px/21px "Times New Roman", Times, serif;
+	font: 500 16px/21px Agency FB;;
 }
 .home-layout2-featured-news .grid {
 	margin: 0px;
@@ -1753,7 +1753,7 @@ height: 50px;
 }
 .cp-news-list-style-2 .cp-news-list h3 {
 	margin: 16px 0 9px;
-	font: 500 20px/20px "Times New Roman", Times, serif;
+	font: 500 20px/20px Agency FB;;
 	
 }
 .cp-news-list-style-2 .cp-news-list h3 a {
@@ -1828,11 +1828,11 @@ height: 50px;
 .cp-banner-caption ul {margin-top:35px;}
 
 .cp-banner-caption h1 {
-	font: 700 60px/60px "Times New Roman", Times, serif;
+	font: 700 60px/60px Agency FB;;
 	color: #fff;
 }
 .cp-banner-caption li {
-	font: 400 24px/24px "Times New Roman", Times, serif !important;
+	font: 400 24px/24px Agency FB; !important;
 	color: #fff;
 	display:inline-block;
 	margin:0 15px;
@@ -2217,7 +2217,7 @@ height: 50px;
 	font-weight: 500;
 	line-height: 26px;
 	
-	font-family: "Times New Roman", Times, serif;
+	font-family: Agency FB;;
 }
 .cp-product-grid ul.grid h3 a {
 	color: #222;
@@ -2226,13 +2226,13 @@ height: 50px;
 	font-size: 18px;
 	font-weight: 700;
 	color: #222222;
-	font-family: "Times New Roman", Times, serif;
+	font-family: Agency FB;;
 	line-height: 22px;
 }
 .cp-product-grid .price ins, .cp-product-details .price ins {
 	font-size: 30px;
 	font-weight: 700;
-	font-family: "Times New Roman", Times, serif;
+	font-family: Agency FB;;
 	text-decoration: none;
 	line-height: 30px;
 }
@@ -4339,7 +4339,7 @@ img.lock{
 .cp-login-form .material-group-item > label {
 	font-size: 14px;
 	color: #888;
-	font-family: "Times New Roman", Times, serif;
+	font-family: Agency FB;;
 }
 .cp-login-form .btn-submit {
 	float: right;

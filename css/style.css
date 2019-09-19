@@ -1,8 +1,8 @@
 p ,h1 ,h3{
-	font-family: "Times New Roman", Times, serif !important;
+	font-family: Agency FB !important;
 }
  a{
-	font-family: "Times New Roman", Times, serif !important;
+	font-family: Agency FB !important;
 }
 .site-color{
 	color:#1b74db;
@@ -645,7 +645,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #060606;
   font-weight: 700;
   margin: 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: Agency FB;
 }
 
 h1 {
@@ -1180,7 +1180,14 @@ box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.39);
   padding: 10px;
 }
 .top-bar {
-  background-color: #1b74db;
+  background: rgba(0,97,66,1);
+background: -moz-linear-gradient(left, rgba(0,97,66,1) 0%, rgba(27,117,220,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(0,97,66,1)), color-stop(100%, rgba(27,117,220,1)));
+background: -webkit-linear-gradient(left, rgba(0,97,66,1) 0%, rgba(27,117,220,1) 100%);
+background: -o-linear-gradient(left, rgba(0,97,66,1) 0%, rgba(27,117,220,1) 100%);
+background: -ms-linear-gradient(left, rgba(0,97,66,1) 0%, rgba(27,117,220,1) 100%);
+background: linear-gradient(to right, rgba(0,97,66,1) 0%, rgba(27,117,220,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#006142', endColorstr='#1b75dc', GradientType=1 );
 }
 .top-bar .top-welcome {
   color: #fff;
