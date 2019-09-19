@@ -1,44 +1,42 @@
 <footer class="footer">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3 col-sm-6 margin30">
+                    <div class="col-md-3 col-sm-6 ">
                      <h3 class="">FOLLOW US</h3>
                         <ul class="list-unstyled">
                             
                             <li><a href="#" target="_blank">Face Book</a></li>
                             <li><a href="#" target="_blank">Twitter</a></li>
                             <li><a href="#" target="_blank">Google +</a></li>
-                            <li><a href="#" target="_blank">Linkedin</a></li>
-                            <li><a href="#" target="_blank">Youtube</a></li>
+                         
                             
                         </ul>
                     </div>
                    
-                    <div class="col-md-3 col-sm-6 margin30">
+                    <div class="col-md-3 col-sm-6 ">
                         <h3>QUICK LINKS</h3>
                         <ul class="list-unstyled">
                              <li><a href="#">Journals</a></li>
                              <li><a href="#">Guidelines</a></li>
-                             <li><a href="#">Conferences</a></li>
-                             <li><a href="#">Video Article</a></li>
+                        
                              <li><a href="#">Submit Manuscript</a></li>
                            
                         </ul>
                     </div> 
-					<div class="col-md-3 col-sm-6 margin30">
+					<div class="col-md-3 col-sm-6 ">
                         <h3>Contact Address	</h3>
 						<ul class="list-unstyled">
-						<li><a href="#">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</a></li>
+						<li><div >Copyright @2019 <br>ARVEN BIOPRODUCTIONS PVT.LTD.</div></li>
 						</ul>
                       
                     </div>
-					<div class="col-md-3 col-sm-6 margin30">
+					<div class="col-md-3 col-sm-6 ">
                         <h3>Contact Information	</h3>
                         <ul class="list-unstyled">
                              <li><a ><i class="fa fa-volume-control-phone" aria-hidden="true"></i>&nbsp; 9922xxxxxx</a></li>
-                             <li><a ><i class="fa fa-fax" aria-hidden="true"></i>&nbsp; **********</a></li>
+                          
                              <li><a ><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp; Contact@arven****</a></li>
-                             <li><a >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support@arven**</a></li>
+                             
 							   <li><a ><i class="fa fa-globe" aria-hidden="true"></i></i>&nbsp; www.arvenpublishers.com</a></li>
                            
                            

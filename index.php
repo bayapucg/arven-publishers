@@ -79,12 +79,12 @@
       <div class="col-md-8">
          <div class=" Welcome_txt fadeInLeft wow animated  " data-wow-duration="1000ms" data-wow-delay="1000ms">
             <h3>ABOUT US </h3>
-            <p> Global Research Federation is an emerging scientific online open access publisher keeping a goal to serve professional and academic communities in latest research discoveries and developments. GRF follows open access policy where enabling permanently archived contents on our journal website allowing readers to download, share and read at free of cost.</p>
+            <p> Arven Periodicals, an online publishing platform publishes the new discoveries and breakthroughs of science and technology. We aim to bring forth the amassed knowledge of researchers, scholars, scientists, and professors in scholarly articles format. We follow the open-access model, which helps to alleviate access to the published content for the readers. This periodicals started with the principle to present and publish the standard excellence and cutting edge knowledge in the fields of science and technology, and helps to empower the research which accelerates new scientific discoveries and breakthroughs.</p>
          </div>
          <br>
          <div class=" Welcome_txt fadeInUp wow animated  " data-wow-duration="1000ms" data-wow-delay="1000ms">
-            <h3>Our Vision</h3>
-            <p>GRF consider research work for publication from any part of the world and ensure that all submissions are gone through peer review process. All our reviewers undertake to keep submitted manuscripts and associated data confidential.The quick and efficient review and publication process makes your papers available in online to all the readers once uploaded in our website. We are honoured to welcome authors to visit our webpage and submit their scientific papers to our journal. In short, our goal is to expand the boundaries of knowledge for the benefit of humanity.</p>
+            <h3>Our mission</h3>
+            <p>Our mission is, distribution of new knowledge that empowers the research and helps scientific advancement that leads to development of several breakthroughs.</p>
          </div>
          <br>
          <div class="clearfix">&nbsp;</div>

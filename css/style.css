@@ -1,3 +1,9 @@
+p ,h1 ,h3{
+	font-family: "Times New Roman", Times, serif !important;
+}
+ a{
+	font-family: "Times New Roman", Times, serif !important;
+}
 .site-color{
 	color:#1b74db;
 }
@@ -1178,8 +1184,8 @@ box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.39);
 }
 .top-bar .top-welcome {
   color: #fff;
-  font-size: 14px;
-  line-height: 50px;
+  font-size: 13px;
+  line-height: 35px;
 
 }
 .top-bar .top-social {
@@ -1394,8 +1400,8 @@ NAVBAR
     padding: 18px;
 }
 .navbar-inverse .navbar-nav > li > a:hover {
- color: #fff ;
- background-color:#1b74dc;
+ color: #1b74dc ;
+ background-color:transparent;
  display:block;
 }
 
@@ -2347,7 +2353,7 @@ buttons for real estate
 float: left;
 list-style: none;
 margin-left: 18px;
-line-height: 50px;
+line-height: 35px;
 
 }
 .small_menu{
@@ -2657,8 +2663,8 @@ li.dropdown:hover > .dropdown-menu {
   clear: both;
 }
 .current{
-  color:#fff !important;
-      background:#1b74db;
+  color:#1b74db !important;
+      background:transparent;
 	  border-radius:0px
 }
 .inner_div1{
