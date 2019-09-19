@@ -16,6 +16,7 @@
         <link href="css/custom.css" rel="stylesheet" type="text/css" media="screen">
         <!-- font awesome for icons -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+		 <link href="http://allfont.net/allfont.css?fonts=agency-fb-bold" rel="stylesheet" type="text/css" />
 		<link href="https://fonts.googleapis.com/css?family=Volkhov&display=swap" rel="stylesheet">
         <link href="css/atoz.css" rel="stylesheet" type="text/css">
        <link href='https://fonts.googleapis.com/css?family=Roboto:400,900,700,500,400italic,300italic,300,100italic,100' rel='stylesheet' type='text/css'>
