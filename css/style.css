@@ -1,6 +1,12 @@
 p{
 	font-family: "Times New Roman", Times, serif !important;
 }
+div{
+	font-family: Agency FB !important;
+}
+label{
+	font-family: Agency FB !important;
+}
  a{
 	font-family: Agency FB !important;
 }
@@ -553,7 +559,7 @@ section .section-title {
 }
 
 strong, b {
-  font-family: "Open Sans", sans-serif;
+  font-family: Agency FB !important;
   font-weight: 700;
 }
 
