@@ -3532,7 +3532,7 @@ background-size: cover;
   text-transform: uppercase;
   color: #383634;
   font-weight: 700;
-  font-family: 'Volkhov', serif;
+ font-family: Agency FB !important;
 }
 .section-heading h2 span {
   color: #1b74db;
